@@ -1,6 +1,7 @@
 ## 💫 About Me:
 <br>
-# 👋 Hello, I'm Atul!<br>
+# 👋 Hello, I'm Atul! 
+<br>
 An AI enthusiast with a passion for solving complex problems, I recently completed my MTech in Robotics & Artificial Intelligence at IIT Guwahati, earning the Best Thesis Award for my project, "Vision-Based Automated Pipeline Inspection." My academic journey not only honed my ability to craft intelligent systems, but it also solidified my love for blending cutting-edge technology with practical, high-impact solutions. My background in Linear Algebra, Probability, and Statistics allows me to build AI models that don’t just work — they excel.<br><br>
 Now, I’m channelling this expertise as an AI Consultant at Sirius AI, where I push the boundaries of what's possible in AI by developing transformative solutions for real-world challenges.<br><br> # 🔧 AI Consultancy Expertise
 As an AI Consultant, I specialize in translating complex AI technologies into business value:
