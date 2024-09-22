@@ -41,7 +41,7 @@ When I'm not shaping the future of AI, you’ll find me riding my motorcycle thr
 
 AI, robotics, Generative AI — let’s chat! Whether you’re an industry expert, a curious learner, or someone looking for a collaboration, feel free to reach out.
 
-**Email:** b.atul@iitg.ac.in
+**Email:** atulbhagat.ba@gmail.com
 
 
 
