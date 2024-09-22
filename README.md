@@ -1,5 +1,4 @@
-## 💫 About Me:
-<br>
+## 💫 About Me: <br>
 # 👋 Hello, I'm Atul! 
 <br>
 An AI enthusiast with a passion for solving complex problems, I recently completed my MTech in Robotics & Artificial Intelligence at IIT Guwahati, earning the Best Thesis Award for my project, "Vision-Based Automated Pipeline Inspection." My academic journey not only honed my ability to craft intelligent systems, but it also solidified my love for blending cutting-edge technology with practical, high-impact solutions. My background in Linear Algebra, Probability, and Statistics allows me to build AI models that don’t just work — they excel.<br><br>
