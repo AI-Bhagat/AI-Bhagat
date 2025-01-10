@@ -19,6 +19,43 @@ As an AI Consultant, I specialize in translating complex AI technologies into bu
 
 ---
 
+## 🎓 Academic Projects
+
+### **Automated Pipeline Inspection Using Deep Learning**  
+**MTech Final Year Thesis** | Team Size: 1 | *Jul 2023 – Jun 2024*  
+Supervisor: **Dr. Sandeep R. Basireddy**, Department of Mechanical Engineering, IIT Guwahati  
+- Developed a robotic crawler prototype integrating a **laser profiler** and **CCD camera** for pipeline inspection.  
+- Conducted an extensive literature review highlighting limitations in algorithm reliability and dataset generalizability.  
+- Utilized the **Sewer-ML dataset** with a two-stage model: a binary CNN classifier and a multi-headed ResNet-152 for multi-label classification.  
+
+---
+
+### **Document Classification Using Deep Neural Networks**  
+**Course Project** | Team Size: 2 | *Jan 2023 – Jun 2023*  
+Supervisor: **Dr. Debanga Raj Neog**, MFSDSAI, IIT Guwahati  
+- Built a **multi-class document classifier** (16 classes) using advanced models like **AlexNet**, **VGG-19**, and **ResNet** on the **RVL-CDIP dataset**.  
+- Achieved the highest F1-Score of **0.68** with VGG-19.  
+- Engineered an ensemble model combining **OCR-extracted embeddings** and CNN-based features, improving classification accuracy to **72%**.  
+
+---
+
+### **A Deep Reinforcement Learning Framework for Identifying Funny Scenes in Movies**  
+**Course Project** | Team Size: 3 | *Jan 2023 – Jun 2023*  
+Supervisor: **Dr. Arghyadip Roy**, MFSDSAI, IIT Guwahati  
+- Implemented a **Deep Reinforcement Learning** approach combining **CNNs** and **Deep Q-Networks** to identify funny scenes.  
+- Created a custom-labeled dataset from the TV series *Friends*.  
+
+---
+
+### **Generating Disease Knowledge Graphs Through Machine Learning and NLP**  
+**Course Project** | Team Size: 3 | *Jul 2022 – Nov 2022*  
+Supervisor: **Dr. Amit Awekar**, Department of Computer Science & Engineering, IIT Guwahati  
+- Compared approaches like **SCIERO**, **REBEL**, and **Wikipedia-based scraping** to generate knowledge graphs.  
+- Built a pipeline for entity-relation extraction, refining, and merging to create structured knowledge graphs.  
+
+---
+
+
 ### 🚀 What I’m Up To
 
 From **Natural Language Processing (NLP)** to **Generative AI**, my current focus lies in building systems that understand, generate, and manipulate language in creative and impactful ways. I work extensively with tools like **LangChain** and **Retrieval-Augmented Generation (RAG)** to drive innovation in **text processing** and **intelligent automation**. Whether it’s creating conversational agents or crafting data-driven insights from massive corpora, I thrive on unlocking the potential of AI in natural language understanding.
